@@ -3,7 +3,7 @@ title: "Claude Code /security-review 解剖：制約設計で作る実用的なA
 emoji: "🔍"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ClaudeCode", "Security", "LLM"]
-published: false
+published: true
 ---
 
 ## この記事について
