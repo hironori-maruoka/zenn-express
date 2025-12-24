@@ -28,6 +28,10 @@ Anthropic が公開した `/security-review` は、Claude Code の**スラッシ
 
 以下は `/security-review` のプロンプト全文（日本語訳）だ。
 
+:::message
+本記事で引用しているプロンプトは [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) からの翻訳です。原文は MIT License (Copyright (c) 2025 Anthropic) の下で公開されています。
+:::
+
 :::details プロンプト全文（クリックで展開）
 
 あなたはシニアセキュリティエンジニアとして、このブランチの変更に対する集中的なセキュリティレビューを実施します。
