@@ -16,6 +16,7 @@ Obsidianは「第2の脳（Second Brain）」を実現する強力なツール�
 思考、行動、そしてWeb情報を一つの場所に集約し、有機的に連携させるシステムです。
 予定はカレンダーに切り出しますが、それ以外の情報をObsidian内で管理します。
 
+
 ```mermaid
 flowchart LR
     %% ノード定義：インプット
@@ -51,10 +52,10 @@ flowchart LR
     App3x3 -- "作業ログ" --> iOSCal
     iOSCal <-. "同期" .-> OBSIDIAN
 
-    %% スタイル
-    classDef input fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef tool fill:#bbf,stroke:#333,stroke-width:2px;
-    classDef main fill:#fff,stroke:#333,stroke-width:4px;
+    %% スタイル変更点
+    classDef input fill:#f8c8dc,stroke:#333,stroke-width:2px,color:#000;
+    classDef tool fill:#a0d8ef,stroke:#333,stroke-width:2px,color:#000;
+    classDef main fill:#ffffff,stroke:#333,stroke-width:4px,color:#000;
     
     class WebInfo,Thought,Work input;
     class Clipper,Memos,App3x3 tool;
