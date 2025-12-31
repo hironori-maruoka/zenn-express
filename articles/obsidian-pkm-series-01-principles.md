@@ -75,11 +75,11 @@ flowchart LR
 - **CODEメソッド**
   Capture（収集）→ Organize（整理）→ Distill（抽出）→ Express（表現）という創造的プロセスの流れ。
 
-Zettelkastenの詳細は、以下を参照してください。
-@[card](https://www.amazon.co.jp/dp/4296000411)
-
-PARAおよびCODEの詳細は、以下を参照してください。
-@[card](https://www.amazon.co.jp/dp/4492558217)
+:::message
+Zettelkasten、PARAおよびCODEの詳細は、以下を参照してください。
+* [TAKE NOTES!――メモで、あなただけのアウトプットが自然にできるようになる](https://www.amazon.co.jp/dp/4296000411)
+* [SECOND BRAIN（セカンドブレイン） 時間に追われない「知的生産術」](https://www.amazon.co.jp/dp/4492558217)
+:::
 
 ## 4. 運用を安定させる10の原則
 本システムを支える中心的な設計思想です。Obsidianの自由度を活かして独自設計するのも一つの道ですが、これらの原則を取り入れることで「どう整理すべきか」の判断コストを下げ、より早く本来の目的（知識の活用）に集中できます。
