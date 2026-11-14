@@ -1,6 +1,6 @@
 title: "AI駆動ソフトウェアエンジニアリング"
-summary: "1冊目と同じ予約システムの成果物を使い、AIとの要求整理、Alloyでのモデル検査、Spring Bootの実装とテストのレビュー、変更への対応をたどります。"
-topics: ["softwareengineering", "ai", "形式手法", "alloy", "springboot"]
+summary: "AIの責務、人間の責務。人間が目的・制約・合格条件と委譲範囲を定め、AIがその範囲で調査・設計・実装・検証を進める。委譲範囲の変更や重大な判断を人間に戻す条件も先に決める。"
+topics: ["softwareengineering", "ai", "形式手法"]
 published: false
 price: 0 # 有料の場合200〜5000
 chapters:
