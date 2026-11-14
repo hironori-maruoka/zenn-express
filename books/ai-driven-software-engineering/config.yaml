@@ -1,0 +1,11 @@
+title: "AI駆動ソフトウェアエンジニアリング"
+summary: "1冊目と同じ予約システムの成果物を使い、AIとの要求整理、Alloyでのモデル検査、Spring Bootの実装とテストのレビュー、変更への対応をたどります。"
+topics: ["softwareengineering", "ai", "形式手法", "alloy", "springboot"]
+published: false
+price: 0 # 有料の場合200〜5000
+chapters:
+  - project-context
+  - requirements
+  - design
+  - implementation-and-quality
+  - operations-and-change
