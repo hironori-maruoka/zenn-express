@@ -1,6 +1,6 @@
 title: "現場で使うソフトウェアエンジニアリング"
-summary: "予約システムを題材に、参画直後の案件理解から要求、DDDによる設計、Spring Bootでの実装とテスト、運用と変更までをたどります。"
-topics: ["softwareengineering", "ddd", "springboot"]
+summary: "設計から実装、形式手法まで。小さな変更ごとに要求・設計・実装・検証を繰り返し、利用結果から次の変更を決める。"
+topics: ["softwareengineering", "ddd", "形式手法"]
 published: false
 price: 0 # 有料の場合200〜5000
 chapters:
